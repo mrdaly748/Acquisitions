@@ -19,7 +19,7 @@ const config = {
     '^#utils/(.*)$': '<rootDir>/src/utils/$1',
     '^#middlewares/(.*)$': '<rootDir>/src/middlewares/$1',
     '^#services/(.*)$': '<rootDir>/src/services/$1',
-    '^#validations/(.*)$': '<rootDir>/src/validations/$1'
+    '^#validations/(.*)$': '<rootDir>/src/validations/$1',
   },
   // All imported modules in your tests should be mocked automatically
   // automock: false,
